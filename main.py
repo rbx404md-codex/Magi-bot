@@ -56,7 +56,7 @@ API_HASH = os.environ.get("API_HASH", "7e32c7abdde741c0bd9d16c257b46d8c")       
 #  STEP 3 ➜  BOT_TOKEN  (string)
 #    Kahan se milega: Telegram pe @BotFather → /newbot
 #    Example: "1234567890:ABCdefGHIjklMNOpqrSTUvwxYZ123456789"
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8815029020:AAGkgQJwfE7mZ3ykh_p3XKt-j9L6a0wOI0g")          # ← APNA BOT TOKEN YAHAN
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8815029020:AAGCPaEh2z0AFQp6gqvoUSBjx-fOato9kxI")          # ← APNA BOT TOKEN YAHAN
 
 # ──────────────────────────────────────────────────────────────────
 #  STEP 4 ➜  GROQ_API_KEY  (string)
