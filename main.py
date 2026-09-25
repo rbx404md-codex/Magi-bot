@@ -44,13 +44,13 @@ from pyrogram.errors import FloodWait, ChatAdminRequired, UserAdminInvalid
 #  STEP 1 ➜  API_ID  (number)
 #    Kahan se milega: https://my.telegram.org → API Development Tools
 #    Example: 12345678
-API_ID = int(os.environ.get("API_ID", "25011339"))          # ← APNA API ID YAHAN
+API_ID = int(os.environ.get("API_ID", "34029847"))          # ← APNA API ID YAHAN
 
 # ──────────────────────────────────────────────────────────────────
 #  STEP 2 ➜  API_HASH  (string)
 #    Kahan se milega: https://my.telegram.org → API Development Tools
 #    Example: "abc123def456ghi789jkl012mno345"
-API_HASH = os.environ.get("API_HASH", "7e32c7abdde741c0bd9d16c257b46d8c")            # ← APNA API HASH YAHAN
+API_HASH = os.environ.get("API_HASH", "b597dff368892d435c7942cc07849829")            # ← APNA API HASH YAHAN
 
 # ──────────────────────────────────────────────────────────────────
 #  STEP 3 ➜  BOT_TOKEN  (string)
